@@ -1,5 +1,5 @@
 #page-landing {
-  padding: 20px 0;
+  padding: 20px;
   width: 100vw;
   height: 100vh;
   background: linear-gradient(329.54deg, #29b6d1 0%, #00c7c7 100%);
@@ -38,6 +38,9 @@
   align-items: flex-start;
   flex-direction: column;
   justify-content: space-between;
+
+  background: url('../../images/landing.svg') no-repeat 80% center;
+  background-size: 40%;
 }
 
 .content-wrapper .location {
