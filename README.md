@@ -1,2 +1,2 @@
-# Happy
-Projeto elaborado pela NLW#3, usando ReactJS!
+# Happy-Web
+Projeto WEB, feito com ReactJS. (Projeto rockeatseat | NLW)
